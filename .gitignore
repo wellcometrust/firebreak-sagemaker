@@ -1,0 +1,7 @@
+.envrc
+
+**/*.jsonl
+**/*.pkl
+**.tar.gz
+
+*.egg*
