@@ -94,7 +94,7 @@ tokenizers==0.10.1
 toml==0.10.2
 torch==1.8.1
 tqdm==4.59.0
-transformers==4.3.0
+transformers==4.36.0
 twine==3.4.1
 typed-ast==1.4.2
 typeguard==2.12.0
